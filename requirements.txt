@@ -1,0 +1,7 @@
+openai
+pyaudio
+requests
+wave
+playsound
+python-dotenv
+pynput
