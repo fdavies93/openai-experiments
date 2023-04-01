@@ -1,4 +1,4 @@
-# OpenAI API Experiements
+# OpenAI API Experiments
 
 This is a repo with some basic experiments using the OpenAI API.
 
@@ -32,6 +32,8 @@ A simple program to access GPT directly through the API which helps when the web
 ### Voice Chat
 
 Uses a number of libraries to enable voice chat with GPT. Also logs out the text version (important as speech synthesis and transcription is *slow*). Uses push-to-talk bound to CTRL.
+
+Uses the following API calls:
 * OpenAI speech transcription
 * GPT
 * ElevenLabs speech synthesis to provide the voice for GPT.
