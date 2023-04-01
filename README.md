@@ -12,6 +12,15 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
+Next, make sure you have an OpenAI API key (they're free). If you want to use the voice chat demo, you also need an Eleven Labs key.
+
+Now create a .env file in the folder with the following contents:
+
+```
+OPENAI_KEY=YOUR_KEY
+ELEVEN_LABS_KEY=YOUR_KEY
+```
+
 Now you should be able to run the experiments.
 
 ## Experiments
