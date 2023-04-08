@@ -5,3 +5,4 @@ wave
 playsound
 python-dotenv
 pynput
+TTS
